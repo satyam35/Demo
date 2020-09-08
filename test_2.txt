@@ -1,1 +1,0 @@
-inseting the data using python code
